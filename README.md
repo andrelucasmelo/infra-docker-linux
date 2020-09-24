@@ -5,9 +5,9 @@ repo: infra-docker-linux
 We mount a basic automation script with Vagrant and Ansible to get up basic infrastructure to run docker containers. We choose Ubuntu Xenial as host OS. 
 
 ### System Requirements
-CPU with 4 cores
-8 GB RAM
-10 GB os Free Disk Space
+- CPU with 4 cores
+- 8 GB RAM
+- 10 GB os Free Disk Space
 
 ### Software Requirements
 - Vagrant 2.0 or upper versions
