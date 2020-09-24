@@ -7,7 +7,7 @@ We mount a basic automation script with Vagrant and Ansible to get up basic infr
 ### System Requirements
 - CPU with 4 cores
 - 8 GB RAM
-- 10 GB os Free Disk Space
+- 10 GB of Free Disk Space
 
 ### Software Requirements
 - Vagrant 2.0 or upper versions
@@ -16,3 +16,4 @@ We mount a basic automation script with Vagrant and Ansible to get up basic infr
 ### How to use it ?
 - Clone the git repository.
 - On repository folder, run "vagrant up" command.
+- After Vagrant and Ansible process, run "vagrant ssh docker1" command.
