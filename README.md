@@ -14,5 +14,5 @@ We mount a basic automation script with Vagrant and Ansible to get up basic infr
 - Virtual Box 6.0.0 or upper versions
 
 ### How to use it ?
-1 - Clone the git repository.
-2 - On repository folder, run "vagrant up" command.
+- Clone the git repository.
+- On repository folder, run "vagrant up" command.
